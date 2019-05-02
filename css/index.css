@@ -134,10 +134,12 @@ table {
 
 
 body {
+  box-sizing: border-box;
   width: 1000px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
+  background: black;
 }
 
 nav ul{
